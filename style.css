@@ -1,0 +1,117 @@
+body {
+    font-family: "Baloo Thambi 2", cursive;
+  }
+  /* Changing the font-family of all the elements in the project */
+body {
+  font-family: "Baloo Thambi 2", cursive;
+  text-align: center;
+  background-image:image("b.png");
+}
+.leftside{
+  text-align: center;
+  width: 400px;
+  height: 400px;
+} 
+#corona{
+width: 350px;
+height: px;
+}
+.corona_rot{
+animation: gocorona 3s linear infinite;
+}
+
+
+#img1{
+text-align: center;
+}
+
+.mudit{
+color:red ;
+}
+.hi{
+background-color: lime;
+}
+.m{
+color: orange;
+}
+.text-warrning{
+color:red;
+}
+.text-danger{
+color: yellow;
+}
+.text-sucess{
+color:greenyellow;
+}
+.About {
+color:yellow;
+}
+.mi{
+background-color: red;
+color:yellow
+}
+
+.ms{
+width:2000px;
+height:1500px;
+}
+.sec-1{
+font-size:25px;
+}
+/* Changing the font-family of all the elements in the project */
+body {
+  font-family: "Baloo Thambi 2", cursive;
+  text-align: center;
+  background-image:image("b.png");
+}
+.leftside{
+  text-align: center;
+  width: 400px;
+  height: 400px;
+} 
+#corona{
+width: 350px;
+height: px;
+}
+.corona_rot{
+animation: gocorona 3s linear infinite;
+}
+
+
+#img1{
+text-align: center;
+}
+
+.mudit{
+color:red ;
+}
+.hi{
+background-color: lime;
+}
+.m{
+color: orange;
+}
+.text-warrning{
+color:red;
+}
+.text-danger{
+color: yellow;
+}
+.text-sucess{
+color:greenyellow;
+}
+.About {
+color:yellow;
+}
+.mi{
+background-color: red;
+color:yellow
+}
+
+.ms{
+width:2000px;
+height:1500px;
+}
+.sec-1{
+font-size:25px;
+}
